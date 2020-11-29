@@ -176,7 +176,7 @@
 	<key>Boot</key>
 	<dict>
 		<key>Arguments</key>
-		<string>-wegnoegpu -igfxdump -igfxbdump</string>
+		<string></string>
 	</dict>
 	<key>Devices</key>
 	<dict>
@@ -916,7 +916,7 @@
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
 			<dict>
 				<key>boot-args</key>
-				<string>agdpmod=vit9696 -v keepsyms=1 alcid=1</string>
+				<string>agdpmod=vit9696 -v keepsyms=1</string>
 				<key>run-efi-updater</key>
 				<string>No</string>
 				<key>prev-lang:kbd</key>
@@ -1106,7 +1106,7 @@
 				<key>model</key>
 				<string>Realtek ALC295 (ALC3254)</string>
 				<key>layout-id</key>
-				<integer>3</integer>
+				<integer>13</integer>
 				<key>AAPL,slot-name</key>
 				<string>Built-in</string>
 				<key>device_type</key>
